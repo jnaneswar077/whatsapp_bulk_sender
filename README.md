@@ -34,8 +34,8 @@ This project includes a pre-packaged ChromeDriver executable ([chromedriver.exe]
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/whatsapp-bulk-sender.git
-   cd whatsapp-bulk-sender
+   git clone https://github.com/jnaneswar077/whatsapp_bulk_sender.git
+   cd whatsapp_bulk_sender
    ```
 
 2. Install the required packages:
